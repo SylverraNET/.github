@@ -3,8 +3,13 @@
 </p>
 
 <p align="center" style="margin-top: 0;">
- CLOSED!
+  A Minecraft Bedrock minigame network.
 </p>
+
+<p align="center" style="margin-top: 0;">
+  Built for Bedrock.
+</p>
+
 ---
 
 <p align="center" style="margin-top: 15px;">
