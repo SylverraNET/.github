@@ -3,11 +3,11 @@
 </p>
 
 <p align="center" style="margin-top: 0;">
-  A Minecraft Bedrock minigame network.
+  A Minecraft network.
 </p>
 
 <p align="center" style="margin-top: 0;">
-  Built for Bedrock.
+  Built for Java.
 </p>
 
 ---
