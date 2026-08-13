@@ -3,11 +3,11 @@
 </p>
 
 <p align="center" style="margin-top: 0;">
-  A Minecraft network.
+  A Minecraft Game network.
 </p>
 
 <p align="center" style="margin-top: 0;">
-  Built for Java.
+  Built for Bedrock.
 </p>
 
 ---
